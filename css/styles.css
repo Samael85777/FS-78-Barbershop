@@ -1,0 +1,12 @@
+:root {
+    --main-font: 'Open Sans', sans-serif;
+}
+
+body {
+    font-family: var(--main-font);
+    background: #FFFFFF;
+}
+
+a:link {
+    text-decoration: none;
+}
