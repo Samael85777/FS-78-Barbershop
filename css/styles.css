@@ -80,6 +80,7 @@ img {
 }
 
 .header-btn {
+  font-family: "Open Sans";
   font-weight: 600;
   font-size: 12px;
   line-height: 1.33;
@@ -179,6 +180,7 @@ Section "Hero" */
 }
 
 .about-btn {
+  font-family: "Open Sans";
   font-weight: 600;
   font-size: 12px;
   line-height: 1.33;
@@ -234,6 +236,7 @@ Section "Hero" */
 }
 
 .prices-btn {
+  font-family: "Open Sans";
   font-weight: 600;
   font-size: 12px;
   line-height: 1.33;
