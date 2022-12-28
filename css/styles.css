@@ -88,6 +88,7 @@ img {
   text-transform: uppercase;
   color: var(--color-third);
   box-sizing: border-box;
+  cursor: pointer;
   width: 160px;
   height: 40px;
   border: 1px solid #ff6c00;
@@ -188,6 +189,7 @@ Section "Hero" */
   text-transform: uppercase;
   color: var(--color-primary);
   box-sizing: border-box;
+  cursor: pointer;
   width: 160px;
   height: 40px;
   border: 1px solid #ff6c00;
@@ -244,6 +246,7 @@ Section "Hero" */
   text-transform: uppercase;
   color: var(--color-third);
   box-sizing: border-box;
+  cursor: pointer;
   width: 160px;
   height: 40px;
   border: 1px solid #ff6c00;
