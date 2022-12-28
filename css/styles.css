@@ -406,7 +406,7 @@ Section "Hero" */
   font-style: normal;
   font-weight: 700;
   font-size: 18px;
-  line-height: 30px;
+  line-height: 1.66;
   letter-spacing: 0.02em;
   color: var(--color-fourth);
 }
@@ -415,7 +415,7 @@ Section "Hero" */
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 30px;
+  line-height: 1.66;
   letter-spacing: 0.02em;
   color: var(--color-fourth);
 }
@@ -424,7 +424,7 @@ Section "Hero" */
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 30px;
+  line-height: 1.66;
   letter-spacing: 0.02em;
   text-decoration-line: underline;
   color: var(--color-fourth);
@@ -434,7 +434,7 @@ Section "Hero" */
   font-style: normal;
   font-weight: 600;
   font-size: 11px;
-  line-height: 15px;
+  line-height: 1.36;
   text-transform: uppercase;
   color: var(--color-third);
 }
@@ -443,7 +443,7 @@ Section "Hero" */
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 30px;
+  line-height: 1.66;
   letter-spacing: 0.02em;
   color: var(--color-fourth);
 }
@@ -456,7 +456,7 @@ Section "Hero" */
   font-style: normal;
   font-weight: 600;
   font-size: 11px;
-  line-height: 15px;
+  line-height: 1.36;
   letter-spacing: 0.2em;
   color: var(--color-fourth);
 }
@@ -468,7 +468,7 @@ Section "Hero" */
   font-style: normal;
   font-weight: 600;
   font-size: 11px;
-  line-height: 15px;
+  line-height: 1.36;
   letter-spacing: 0.2em;
   color: var(--color-primary);
 }
